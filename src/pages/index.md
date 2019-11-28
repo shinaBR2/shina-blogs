@@ -4,7 +4,7 @@ sections:
   - component: HeroBlock
     content: >-
       "Don’t run behind success. Follow behind excellence, success will come all
-      way behind you"
+      way behind you."
     section_id: hero
     type: heroblock
   - actions:
