@@ -14,9 +14,9 @@ template: post
 ---
 <!--StartFragment-->
 
-Bài viết gốc: <!--StartFragment-->
+[Bài viết gốc](http://nhipsongkinhte.toquoc.vn/kinh-doanh/albert-einstein-tung-cam-than-that-ky-la-khi-duoc-ca-the-gioi-biet-den-nhung-van-rat-co-don-suy-cho-cung-nguoi-cang-thong-minh-thi-cang-bat-hanh-52020212213020153.htm): <!--StartFragment-->
 
-<https://cafebiz.vn/albert-einstein-tung-cam-than-that-ky-la-khi-duoc-ca-the-gioi-biet-den-nhung-van-rat-co-don-suy-cho-cung-nguoi-cang-thong-minh-thi-cang-bat-hanh-20200217000546485.chn>
+
 
 <!--EndFragment-->
 
