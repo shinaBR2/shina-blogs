@@ -19,11 +19,7 @@ template: post
 
 # Món quà tuyệt vời nhất dành cho ai đó là thời gian, tình yêu và sự chú ý của bạn: Không cần quyến rũ, hài hước, hướng ngoại, bạn vẫn có thể được nhiều người yêu quý
 
-
-
-Xem bài viết gốc tại <a href="<http://ttvn.toquoc.vn/print/mon-qua-tuyet-voi-nhat-danh-cho-ai-do-la-thoi-gian-tinh-yeu-va-su-chu-y-cua-ban-khong-can-quyen-ru-hai-huoc-huong-ngoai-ban-van-co-the-duoc-nhieu-nguoi-yeu-quy-5202012281519494.htm>" target="_blank">đây</a>
-
-
+Xem bài viết gốc tại <a href="http://ttvn.toquoc.vn/kinh-doanh/mon-qua-tuyet-voi-nhat-danh-cho-ai-do-la-thoi-gian-tinh-yeu-va-su-chu-y-cua-ban-khong-can-quyen-ru-hai-huoc-huong-ngoai-ban-van-co-the-duoc-nhieu-nguoi-yeu-quy-5202012281519494.htm" target="_blank">đây</a>
 
 #### Tôi chưa bao giờ là tuýp người duyên dáng tự nhiên thu hút được nhiều người vây quanh. Tôi không biết nói đùa và cũng không biết bắt chuyện trong những bữa tiệc. Tôi không giỏi giao tiếp. Tôi cứ ngỡ mình sẽ mãi sống cuộc đời mờ nhạt, chẳng là ai và chẳng ai nhớ đến.
 
