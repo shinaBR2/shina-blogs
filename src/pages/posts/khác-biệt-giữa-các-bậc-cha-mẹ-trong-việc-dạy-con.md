@@ -9,8 +9,8 @@ thumb_img_path: >-
 content_img_path: >-
   /images/parents-who-fight-with-children-15822555555511174095377-crop-15822555722401468240316.jpg
 excerpt: >-
-  Con cái giống như một tờ giấy trắng, tính cách của con cái trong tương lai sẽ
-  phản chiếu cách giáo dục của cha mẹ
+  Phụ huynh bình thường nhìn nhận vấn đề thiển cận còn phụ huynh khôn ngoan biết
+  "nhìn xa trông rộng"
 template: post
 ---
 V.D | 22-02-2020 - 06:38 AM
