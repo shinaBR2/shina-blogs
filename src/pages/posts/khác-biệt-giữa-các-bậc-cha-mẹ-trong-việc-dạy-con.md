@@ -13,7 +13,7 @@ excerpt: >-
   "nhìn xa trông rộng"
 template: post
 ---
-V.D | 22-02-2020 - 06:38 AM
+Xem bài viết gốc tại <a href="http://ttvn.toquoc.vn/kinh-doanh/10-su-khac-biet-giua-cha-me-binh-thuong-va-cha-me-thong-thai-phu-huynh-binh-thuong-nhin-nhan-van-de-thien-can-con-phu-huynh-khon-ngoan-biet-nhin-xa-trong-rong-5202022271430998.htm" target="_blank">đây</a>
 
 10 sự khác biệt giữa cha mẹ bình thường và cha mẹ thông thái: Phụ huynh bình thường nhìn nhận vấn đề thiển cận còn phụ huynh khôn ngoan biết 
 Con cái giống như một tờ giấy trắng, tính cách của con cái trong tương lai sẽ phản chiếu cách giáo dục của cha mẹ.
