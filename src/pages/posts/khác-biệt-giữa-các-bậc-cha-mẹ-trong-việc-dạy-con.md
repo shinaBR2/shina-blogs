@@ -81,7 +81,7 @@ Xem bài viết gốc tại <a href="http://ttvn.toquoc.vn/kinh-doanh/10-su-khac
 
 **Quan điểm thành công** 
 
-![quan-diem-thanh-cong](/images/vong9-3149-1570762276-15821913425061010035824 (1).jpg)
+![quan-diem-thanh-cong](/images/vong9-3149-1570762276-15821913425061010035824.jpg)
 
 Đối với cha mẹ bình thường, con cái có một công việc tốt, thu nhập ổn định, có nhà có xe – như vậy là thành công. Vì thế, ngay từ khi con còn nhỏ, họ hướng cho con cái phải học thật nhiều, so sánh với "con nhà người ta", đưa ra một tiêu chuẩn thành công của chính họ.
 
