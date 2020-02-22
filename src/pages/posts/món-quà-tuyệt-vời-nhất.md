@@ -1,9 +1,6 @@
 ---
 title: Món quà tuyệt vời nhất
-subtitle: >-
-  Món quà tuyệt vời nhất dành cho ai đó là thời gian, tình yêu và sự chú ý của
-  bạn: Không cần quyến rũ, hài hước, hướng ngoại, bạn vẫn có thể được nhiều
-  người yêu quý
+subtitle: ''
 date: 2020-02-22T09:21:57.412Z
 thumb_img_path: /images/conversations-1581432320942709050349-crop-15814323369361779711496.jpg
 content_img_path: /images/conversations-1581432320942709050349-crop-15814323369361779711496.jpg
@@ -13,9 +10,9 @@ excerpt: >-
   người yêu quý
 menus:
   main:
-    identifier: testMenuItemOptinal
-    title: Test menu
-    weight: 30
+    identifier: ''
+    title: ''
+    weight: 0
 template: post
 ---
 <!--StartFragment-->
