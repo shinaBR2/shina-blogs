@@ -19,7 +19,9 @@ template: post
 
 # Món quà tuyệt vời nhất dành cho ai đó là thời gian, tình yêu và sự chú ý của bạn: Không cần quyến rũ, hài hước, hướng ngoại, bạn vẫn có thể được nhiều người yêu quý
 
-12-02-2020 - 07:39 AM
+
+
+Xem bài viết gốc tại <a href="<http://ttvn.toquoc.vn/print/mon-qua-tuyet-voi-nhat-danh-cho-ai-do-la-thoi-gian-tinh-yeu-va-su-chu-y-cua-ban-khong-can-quyen-ru-hai-huoc-huong-ngoai-ban-van-co-the-duoc-nhieu-nguoi-yeu-quy-5202012281519494.htm>" target="_blank">đây</a>
 
 
 
@@ -43,7 +45,7 @@ Ai cũng có thể đưa ra lời khen nhưng phần lớn những lời khen đ
 
 Một lời khen khó quên thường thỏa mãn 3 yếu tố:
 
-***\-**Tính giới hạn:*Lời khen hướng đến một khía cạnh nhỏ trong hành động, chuyên môn hay giá trị của đối phương.
+**\*-**Tính giới hạn:*Lời khen hướng đến một khía cạnh nhỏ trong hành động, chuyên môn hay giá trị của đối phương.
 
 *\- Cụ thể:*Nhấn mạnh vào chi tiết khiến ai cũng không thể bỏ qua mà không khen ngợi.
 
@@ -82,12 +84,8 @@ Nhiều người có thói quen bày tỏ sự tiêu cực mỗi khi mọi chuy�
 Tránh những cảm xúc tiêu cực và thôi phàn nàn không thể ngay lập tức biến bạn thành người được nhiều người yêu quý nhưng việc bạn luôn bới lông tìm vết, luôn bắt lỗi trong mọi chuyện sẽ khiến những người xung quanh bạn khó chịu. Khi bạn cảm thấy có một nguồn năng lượng cứ hối thúc bạn tiêu cực, hãy thử:
 
 1. Nghĩ về điều tiêu cực đó nhưng không nói ra.
-
 2. Thay đối góc độ nhìn nhận. Tự hỏi mình: “Mặt tích cực việc này mang lại là gì? Làm thế nào để biến chuyện đó thành tích cực?”
-
 3. Chia sẻ với người khác những góc nhìn tích cực.
-
-
 
 **Là người đầu tiên đương đầu với cái khó**
 
