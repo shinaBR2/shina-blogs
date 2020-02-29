@@ -11,7 +11,7 @@ Xem bài viết gốc tại <a href="https://beta.lostbird.vn/kham-pha-cung-lac/
 
 <!--StartFragment-->
 
-Sáng ngày 11/04/1981, tại căn nhà số 28 ở Keddie phát hiện ba thi thể của Glenna Sue Sharp, John Sharp và Dana Wingate. Hiện trường vụ án nhuốm máu đỏ rực, các nạn nhân bị cắt thành nhiều mảnh và bị đánh đập, giết hại dã man bằng búa và dao,. Sau khi án mạng xảy ra, Tina, con gái của bà Sue Sharp mất tích, ba năm sau hộp sọ của cô bé được tìm thấy cách Keddie 50 km về phía Nam. Phần thi thể còn lại của Tina vẫn biến mất không dấu vết.
+Sáng ngày 11/04/1981, tại căn nhà số 28 ở Keddie phát hiện ba thi thể của Glenna Sue Sharp, John Sharp và Dana Wingate. Hiện trường vụ án nhuốm máu đỏ rực, các nạn nhân bị cắt thành nhiều mảnh và bị đánh đập, giết hại dã man bằng búa và dao. Sau khi án mạng xảy ra, Tina, con gái của bà Sue Sharp mất tích, ba năm sau hộp sọ của cô bé được tìm thấy cách Keddie 50 km về phía Nam. Phần thi thể còn lại của Tina vẫn biến mất không dấu vết.
 
 ![](https://img.lostbird.vn/2020/02/c1f2847d50b9.jpg)
 
@@ -19,13 +19,13 @@ Căn hộ số 28 tại Keddie.
 
 Ngay khi nghe tin về vụ án cảnh sát đã vào cuộc điều tra nhưng vẫn không tìm thấy hung thủ. Cho đến ngày nay, vụ án vẫn chưa được giải quyết và trở thành bí ẩn xuyên thời đại.
 
-Những gì diễn ra tại căn hộ Keddie đã “gây sốc” vì sự tàn bạo và ám ảnh mà kẻ sát nhân bệnh hoạn đã gây nên. Diễn biến rùng rợn của vụ án mạng đã tạo cảm hứng để đạo diễn Bryan Bertino xây dựng nên bộ phim kinh dị***The Strangers***, phát hành năm 2008. Phim kể về ba kẻ tấn công vô danh đeo mặt nạ đột nhập vào nhà để sát hại đôi vợ chồng nọ.
+Những gì diễn ra tại căn hộ Keddie đã “gây sốc” vì sự tàn bạo và ám ảnh mà kẻ sát nhân bệnh hoạn đã gây nên. Diễn biến rùng rợn của vụ án mạng đã tạo cảm hứng để đạo diễn Bryan Bertino xây dựng nên bộ phim kinh dị ***The Strangers***, phát hành năm 2008. Phim kể về ba kẻ tấn công vô danh đeo mặt nạ đột nhập vào nhà để sát hại đôi vợ chồng nọ.
 
 ![](https://img.lostbird.vn/2020/02/poster_strangers_ver3.jpg)
 
 Poster phim***The Strangers***.
 
-Án mạng tại Keddie ẩn chứa những tình tiết rùng rợn và khó hiểu mà giới điều tra không thể giải đáp; trở thành một trong những vụ án bí ẩn nhất trong lịch sử Hoa Kỳ ở thế kỷ 20.
+Án mạng tại Keddie ẩn chứa những tình tiết rùng rợn và khó hiểu mà giới điều tra không thể giải đáp, trở thành một trong những vụ án bí ẩn nhất trong lịch sử Hoa Kỳ ở thế kỷ 20.
 
 #### Thảm kịch của gia đình nhà Sharp
 
