@@ -7,9 +7,7 @@ content_img_path: /images/c1f2847d50b9.jpg
 excerpt: Một trong những vụ án kinh hoàng bí ẩn nhất lịch sử vẫn chưa có lời giải
 template: post
 ---
-Xem bài viết gốc tại <a href="<https://beta.lostbird.vn/kham-pha-cung-lac/kinh-di/an-mang-tai-can-nha-so-28-keddie-mot-trong-nhung-vu-an-kinh-hoang-bi-an-nhat-lich-su-van-chua-co-loi-giai-893708.html>" target="_blank">đây</a> <!--StartFragment-->
-
-
+Xem bài viết gốc tại <a href="https://beta.lostbird.vn/kham-pha-cung-lac/kinh-di/an-mang-tai-can-nha-so-28-keddie-mot-trong-nhung-vu-an-kinh-hoang-bi-an-nhat-lich-su-van-chua-co-loi-giai-893708.html" target="_blank">đây</a> <!--StartFragment-->
 
 <!--StartFragment-->
 
