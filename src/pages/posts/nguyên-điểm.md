@@ -1,9 +1,9 @@
 ---
-title: Nguyên điểm
+title: Nguyên điểm - Tây Đơn Nữ Hài
 subtitle: Lời dịch của "Nguyên điểm"
 date: 2020-05-24T14:46:50.308Z
 thumb_img_path: /images/hoagiangho.jpg
-content_img_path: /images/hoagiangho.jpg
+content_img_path: ""
 excerpt: Chỉ đơn giản là một tuyệt tác
 template: post
 ---
