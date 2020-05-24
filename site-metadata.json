@@ -4,14 +4,14 @@
   "palette": "blue",
   "header": {
     "title": "ShinaBR2",
-    "tagline": "Frontend Developer",
+    "tagline": "The man looking for original values",
     "profile_img": "/images/shina4.jpg",
     "bg": "dark",
     "has_nav": false,
     "has_social": false
   },
   "footer": {
-    "content": "&copy; All rights reserved.",
+    "content": "ShinaBR2 &copy; All rights reserved.",
     "links": []
   }
 }
