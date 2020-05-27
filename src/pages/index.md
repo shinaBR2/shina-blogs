@@ -2,14 +2,11 @@
 title: ShinaBR2 Blogs Home
 sections:
   - component: HeroBlock
-    content: >-
-      "Don’t run behind success. Follow behind excellence, success will come all
-      way behind you."
+    content: '"Tôi lưu giữ những giá trị vẹn nguyên qua từng năm tháng. Tại đây,
+      linh hồn của bạn không bao giờ già đi."'
     section_id: hero
     type: heroblock
-  - actions:
-      - label: Contact Me
-        url: /contact
+  - actions: []
     component: ContentBlock
     content: Người đi tìm sự vẹn nguyên
     section_id: about
@@ -29,4 +26,3 @@ menus:
     weight: 1
 template: home
 ---
-
