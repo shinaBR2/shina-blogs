@@ -6,12 +6,6 @@ sections:
       linh hồn của bạn không bao giờ già đi."'
     section_id: hero
     type: heroblock
-  - actions: []
-    component: ContentBlock
-    content: Người đi tìm sự vẹn nguyên
-    section_id: about
-    title: About
-    type: contentblock
   - actions:
       - label: View Blog
         url: blog/index.html
