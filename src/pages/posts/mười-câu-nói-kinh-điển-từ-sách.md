@@ -7,9 +7,7 @@ date: 2020-05-27T05:49:06.639Z
 thumb_img_path: /images/main.jpg
 template: post
 ---
-Xem bài viết gốc tại `<a href="`https://cafebiz.vn/10-cuon-sach-noi-tieng-tren-the-gioi-duc-ket-lai-thanh-10-cau-noi-kinh-dien-giup-ban-huong-loi-ca-doi-20200526194451233.chn`" target="_blank">cafebiz</a>`.
-
-
+Xem bài viết gốc tại <a href="https://cafebiz.vn/10-cuon-sach-noi-tieng-tren-the-gioi-duc-ket-lai-thanh-10-cau-noi-kinh-dien-giup-ban-huong-loi-ca-doi-20200526194451233.chn" target="_blank">cafebiz</a>.
 
 <!--StartFragment-->
 
