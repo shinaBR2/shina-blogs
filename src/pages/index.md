@@ -2,8 +2,7 @@
 title: ShinaBR2 Blogs Home
 sections:
   - component: HeroBlock
-    content: '"Tôi lưu giữ những giá trị vẹn nguyên qua từng năm tháng. Tại đây,
-      linh hồn của bạn không bao giờ già đi."'
+    content: '"Người đi tìm sự vẹn nguyên."'
     section_id: hero
     type: heroblock
   - actions:
