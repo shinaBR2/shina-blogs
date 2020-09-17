@@ -2,6 +2,7 @@
 title: Trải nghiệm khách hàng ở Amazon
 subtitle: ""
 date: 2020-09-17T14:52:31.517Z
+thumb_img_path: /images/amazon.jpg
 excerpt: '"Trở thành công ty số một trái đất về lấy khách hàng làm trung tâm,
   nơi khách hàng có thể tìm thấy và khám phá bất cứ thứ gì họ muốn mua" – Đó là
   tuyên bố tầm nhìn của Amazon, được ghi hẳn hoi trong tài liệu thành lập công
